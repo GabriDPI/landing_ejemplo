@@ -1,0 +1,8 @@
+{
+  "name": "Cursos IA Polo Vilanova",
+  "description": "Landing page de alta conversión para los cursos presenciales de Inteligencia Artificial en el Polo de Emprendemento de Vilanova de Arousa (Pazo de Vista Real).",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
