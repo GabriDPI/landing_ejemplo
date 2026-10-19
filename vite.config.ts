@@ -6,7 +6,7 @@ import {defineConfig} from 'vite';
 export default defineConfig(() => {
   return {
     // Configured for flexible deployment on Cloudflare Pages and GitHub Pages
-    base: process.env.BASE_PATH || './',
+    base: process.env.BASE_PATH || '/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
